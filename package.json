@@ -11,12 +11,12 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/esultocom/node-server-middleware-wantscheck.git"
+    "url": "git+https://gitlab.com/esultocom/js-modules/node-server-middleware-wantscheck.git"
   },
   "bugs": {
-    "url": "https://github.com/esultocom/node-server-middleware-wantscheck/issues"
+    "url": "https://gitlab.com/esultocom/js-modules/node-server-middleware-wantscheck/issues"
   },
-  "homepage": "https://github.com/esultocom/node-server-middleware-wantscheck#readme",
+  "homepage": "https://gitlab.com/esultocom/js-modules/node-server-middleware-wantscheck#readme",
   "engines": {
     "node": ">=12.0.0",
     "npm": ">=6.0.0"
