@@ -12,7 +12,7 @@
     "email": "federico@sgobbi.it",
     "url": "https://digidockage.com"
   },
-  "homepage": "https://github.com/digidockage/node-server-util-pick",
+  "homepage": "https://github.com/digidockage/node-server-middleware-wantscheck",
   "license": "MIT",
-  "repository": "https://github.com/digidockage/node-server-util-pick.git"
+  "repository": "https://github.com/digidockage/node-server-middleware-wantscheck.git"
 }
