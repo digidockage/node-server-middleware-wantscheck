@@ -8,13 +8,13 @@
  *                                                                                                 *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-// * * * * * * * * The code
+// > > > > > > > > > > > > > > > > > > > > > > > The code
 const wantsCheck = (req, res, next) => {
-  req.wantsJSON = req.accepts('html','json') === 'json';
-  req.wantsHTML = req.accepts('html','json') === 'HTML';
+  req.wantsJSON = req.accepts('html', 'json') === 'json';
+  req.wantsHTML = req.accepts('html', 'json') === 'HTML';
 
   next();
 };
 
-// * * * * * * * * Module exports
+// > > > > > > > > > > > > > > > > > > > > > > > Module exports
 module.exports = wantsCheck;

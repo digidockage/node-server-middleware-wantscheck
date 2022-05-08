@@ -3,5 +3,5 @@ Nodejs common server middleware wantsCheck.
 
 ### Install
 ```
-npm install @esultocom/node-server-middleware-wantscheck
+npm install @digidockage/node-server-middleware-wantscheck
 ```
